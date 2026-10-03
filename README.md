@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-cakeday.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-cakeday) or the [upstream repository](https://github.com/Nearata/flarum-ext-cakeday).
 
-**0** versions archived · Latest: [`v2.2.0`](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v2.2.0) · License: `Unlicense` · Flarum: `^1.8`
+**8** versions archived · Latest: [`v2.2.0`](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v2.2.0) · License: `Unlicense` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-03-24 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v1.0.0) |
+| `v1.0.1` | 2021-03-25 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v1.0.1) |
+| `v1.1.0` | 2021-03-26 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v1.1.0) |
+| `v1.2.0` | 2021-04-02 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v1.2.0) |
+| `v1.3.0` | 2021-04-12 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v1.3.0) |
+| `v2.0.0` | 2021-07-12 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v2.0.0) |
+| `v2.1.0` | 2022-08-27 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v2.1.0) |
+| `v2.2.0` | 2023-06-22 | `^1.8` | [Browse](https://github.com/flarchive/nearata-flarum-ext-cakeday/tree/archive/v2.2.0) |
 
 Catalog entry: [packages/nearata-flarum-ext-cakeday.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-cakeday.json)
 
